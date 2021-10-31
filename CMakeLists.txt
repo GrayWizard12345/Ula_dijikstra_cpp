@@ -5,7 +5,7 @@ set(CMAKE_CXX_STANDARD 14)
 
 include_directories(.)
 
-add_executable(Ula
+add_executable(labs
         astar.cpp
         astar.h
         dijkstra.cpp
